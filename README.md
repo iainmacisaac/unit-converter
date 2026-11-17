@@ -1,6 +1,6 @@
 # Unit Converter
 
-A very basic command-line unit converter written in Python.
+A very basic command-line unit converter written in Python (woo!).
 
 ## Supported units
 
